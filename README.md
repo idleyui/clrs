@@ -1,4 +1,11 @@
-# Note and Solution for CLRS
+# Notes and Solutions for CLRS
+
+> Personal work
 
 ## Work with Clion
-use File - "Reload CMake Project" to generate cmake-build-debug/
+Use File - "Reload CMake Project" to generate cmake-build-debug/
+
+## Reference
+https://github.com/gzc/CLRS
+
+https://github.com/Mooophy/CLRS
