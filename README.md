@@ -6,6 +6,9 @@
 Use File - "Reload CMake Project" to generate cmake-build-debug/
 
 ## Reference
-https://github.com/gzc/CLRS
 
-https://github.com/Mooophy/CLRS
+[1] https://github.com/gzc/CLRS
+
+[2] https://github.com/Mooophy/CLRS
+
+[3] https://ita.skanev.com/
